@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "grunt-contrib-concat": "^0.1.3",
-    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-uglify": "git+https://github.com/cqy-all/grunt-contrib-uglify.git",
     "grunt-css": "^0.5.4"
   },
   "devDependencies": {
